@@ -1,0 +1,8 @@
+C:\Users\m_lez\source\repos\BasitToDoList\BasitToDoList\bin\Debug\BasitToDoList.exe.config
+C:\Users\m_lez\source\repos\BasitToDoList\BasitToDoList\bin\Debug\BasitToDoList.exe
+C:\Users\m_lez\source\repos\BasitToDoList\BasitToDoList\bin\Debug\BasitToDoList.pdb
+C:\Users\m_lez\source\repos\BasitToDoList\BasitToDoList\obj\Debug\BasitToDoList.csproj.AssemblyReference.cache
+C:\Users\m_lez\source\repos\BasitToDoList\BasitToDoList\obj\Debug\BasitToDoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\m_lez\source\repos\BasitToDoList\BasitToDoList\obj\Debug\BasitToDoList.csproj.CoreCompileInputs.cache
+C:\Users\m_lez\source\repos\BasitToDoList\BasitToDoList\obj\Debug\BasitToDoList.exe
+C:\Users\m_lez\source\repos\BasitToDoList\BasitToDoList\obj\Debug\BasitToDoList.pdb
